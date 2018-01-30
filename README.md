@@ -1,1 +1,1 @@
-# PHPPowerpointTemplate
+# PHPMultiTemplate
